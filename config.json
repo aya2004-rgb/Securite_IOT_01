@@ -1,7 +1,7 @@
 {
     "version": 2,
-    "firmware_url": "https://aya2004-rgb.github.io/ESP32_OTA_Server/firmware_v2.bin",
-    "version_url": "https://aya2004-rgb.github.io/ESP32_OTA_Server/version.txt",
+    "firmware_url": "https://aya2004-rgb.github.io/Securite_IOT_01/firmware_v2.bin",
+    "version_url": "https://aya2004-rgb.github.io/Securite_IOT_01/version.txt",
     "update_interval": 3600000,
     "description": "Configuration OTA pour ESP32 - Modifiez ce fichier pour changer les URLs sans re-téléverser le code"
 }
